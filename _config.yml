@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Émile Oleon's website"
+title                    : "Émile Oleon"
 title_separator          : "-"
 name                     : &name "Émile Oleon"
 description              : &description "PhD student at École polytechnique in computer science"
