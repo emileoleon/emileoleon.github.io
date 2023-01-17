@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 I am a PhD student in [LIX laboratory](https://www.lix.polytechnique.fr/) at École polytechnique.
+
+An [internship](files/internship.pdf) is available.
