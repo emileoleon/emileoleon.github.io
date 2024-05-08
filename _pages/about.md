@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "⚡ The wonderful site of Émile Oleon ⚡"
+title: "🌟 The wonderful site of Émile Oleon 🌟"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
