@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I am currently a (2nd year) PhD student in [LIX laboratory](https://www.lix.polytechnique.fr/) at École polytechnique. 
 
 Before that, I did a master degree in computer science at [Ecole normale supérieure Paris-Saclay](https://ens-paris-saclay.fr/), and a master in fundamental matematics at [Sorbonne université](https://www.sorbonne-universite.fr/). Here is my CV for more details.
