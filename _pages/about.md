@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a (2nd year) PhD student in [LIX laboratory](https://www.lix.polytechnique.fr/) at École polytechnique. 
+I am currently a (3rd year) PhD student in [LIX laboratory](https://www.lix.polytechnique.fr/) at École polytechnique. 
 
 Before that, I did a [master degree](https://wikimpri.dptinfo.ens-cachan.fr/doku.php) in computer science at Ecole normale supérieure Paris-Saclay, and a [master degree](https://master-math-fonda.imj-prg.fr/) in fundamental mathematics at Sorbonne université. Here is my [CV](files/cv.pdf) for more details.
 
